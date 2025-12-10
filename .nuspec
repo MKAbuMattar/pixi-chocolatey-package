@@ -1,32 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>pixi</id>
+    <version>0.61.0</version>
+    <title>Pixi - Package Management Made Easy</title>
+    <authors>prefix.dev</authors>
+    <owners>Mohammad Abu Mattar</owners>
+    <licenseUrl>https://github.com/prefix-dev/pixi/blob/main/LICENSE</licenseUrl>
+    <projectUrl>https://pixi.sh/</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/MKAbuMattar/pixi-chocolatey-package/refs/heads/main/.github/assets/pixi.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description><![CDATA[
 # pixi Chocolatey Package
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MKAbuMattar/pixi-chocolatey-package/refs/heads/main/.github/assets/pixi.png" alt="Pixi Logo" width="200"/>
-</div>
-
-<div align="center">
-  <a href="https://github.com/MKAbuMattar/pixi-chocolatey-package">
-    <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://community.chocolatey.org/packages/pixi">
-    <img src="https://img.shields.io/chocolatey/v/pixi?color=blue&label=chocolatey&logo=chocolatey&style=for-the-badge" alt="pixi on Chocolatey"/>
-  </a>
-  <a href="https://community.chocolatey.org/packages/pixi">
-    <img src="https://img.shields.io/chocolatey/dt/pixi?color=blue&label=chocolatey&logo=chocolatey&style=for-the-badge" alt="pixi Downloads"/>
-  </a>
-  <a href="https://github.com/MKAbuMattar/pixi-chocolatey-package/stargazers">
-    <img src="https://img.shields.io/github/stars/MKAbuMattar/pixi-chocolatey-package.svg?style=for-the-badge" alt="GitHub Stars"/>
-  </a>
-  <a href="https://github.com/MKAbuMattar/pixi-chocolatey-package/forks">
-    <img src="https://img.shields.io/github/forks/MKAbuMattar/pixi-chocolatey-package.svg?style=for-the-badge" alt="GitHub Forks"/>
-  </a>
-  <a href="https://github.com/MKAbuMattar/pixi-chocolatey-package/issues">
-    <img src="https://img.shields.io/github/issues/MKAbuMattar/pixi-chocolatey-package.svg?style=for-the-badge" alt="GitHub Issues"/>
-  </a>
-  <a href="LICENSE">
-    <img src="https://img.shields.io/github/license/MKAbuMattar/pixi-chocolatey-package.svg?style=for-the-badge" alt="GitHub License"/>
-  </a>
-</div>
 
 ## Downloads
 
@@ -99,3 +84,14 @@ pixi run test
 ## Stay Updated
 
 🚀 Latest version: 0.61.0 (December 9, 2025). Visit the [GitHub repository](https://github.com/prefix-dev/pixi) for more information and updates.
+    ]]></description>
+    <summary>Pixi is a cross-platform, multi-language package manager and workflow tool built on the conda ecosystem.</summary>
+    <releaseNotes>https://github.com/prefix-dev/pixi/releases/tag/v0.61.0</releaseNotes>
+    <tags>pixi package-manager conda rust python workflow developer-tools</tags>
+    <packageSourceUrl>https://github.com/MKAbuMattar/pixi-chocolatey-package</packageSourceUrl>
+    <docsUrl>https://pixi.sh/</docsUrl>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
