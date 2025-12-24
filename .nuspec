@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>pixi</id>
-    <version>0.62.1</version>
+    <version>0.62.2</version>
     <title>Pixi - Package Management Made Easy</title>
     <authors>prefix.dev</authors>
     <owners>Mohammad Abu Mattar</owners>
@@ -83,10 +83,10 @@ pixi run test
 
 ## Stay Updated
 
-🚀 Latest version: 0.62.1 (December 9, 2025). Visit the [GitHub repository](https://github.com/prefix-dev/pixi) for more information and updates.
+🚀 Latest version: 0.62.2 (December 9, 2025). Visit the [GitHub repository](https://github.com/prefix-dev/pixi) for more information and updates.
     ]]></description>
     <summary>Pixi is a cross-platform, multi-language package manager and workflow tool built on the conda ecosystem.</summary>
-    <releaseNotes>https://github.com/prefix-dev/pixi/releases/tag/v0.62.1</releaseNotes>
+    <releaseNotes>https://github.com/prefix-dev/pixi/releases/tag/v0.62.2</releaseNotes>
     <tags>pixi package-manager conda rust python workflow developer-tools</tags>
     <packageSourceUrl>https://github.com/MKAbuMattar/pixi-chocolatey-package</packageSourceUrl>
     <docsUrl>https://pixi.sh/</docsUrl>
