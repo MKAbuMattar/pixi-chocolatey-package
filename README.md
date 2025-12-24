@@ -98,4 +98,4 @@ pixi run test
 
 ## Stay Updated
 
-🚀 Latest version: 0.62.1 (December 9, 2025). Visit the [GitHub repository](https://github.com/prefix-dev/pixi) for more information and updates.
+🚀 Latest version: 0.62.2 (December 9, 2025). Visit the [GitHub repository](https://github.com/prefix-dev/pixi) for more information and updates.
